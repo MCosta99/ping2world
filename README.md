@@ -36,7 +36,7 @@ Total servers tested: 87
 ## Installation
 
 ```bash
-curl -O https://raw.githubusercontent.com/YOUR_USERNAME/pingworld/main/ping2world.sh
+curl -O https://raw.githubusercontent.com/MCosta99/pingworld/main/ping2world.sh
 chmod +x ping2world.sh
 ```
 
